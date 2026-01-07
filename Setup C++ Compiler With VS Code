@@ -20,9 +20,4 @@ Step 9: Open VS Code, Install VS Code Extension. (C++ From Microsoft).
 
 Step 10: Then Create A CPP File and Run Code. Make sure to select g++.
 
-
-**Extra:**
-
-**Command Prompt: g++ \[fileName] -o \[fileName].exe .\\\[fileName].exe**
-
 **For F5 Run --> Select gdb/lldb.**
