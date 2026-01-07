@@ -1,6 +1,6 @@
 Step 1: Install VS Code
 
-Step 2: Download MSYS2 \& Install - Link: https://www.msys2.org/
+Step 2: Download MSYS2 & Install - Link: https://www.msys2.org/
 
 Step 3: After installing, Terminal will open and type: "pacman -Syu". Then press Y. This will update the whole package.
 
